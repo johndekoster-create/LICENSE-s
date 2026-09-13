@@ -1,2 +1,0 @@
-# LICENSE-s
-LICENSE-s
